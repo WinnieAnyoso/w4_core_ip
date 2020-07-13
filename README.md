@@ -1,6 +1,6 @@
 # w4_core_ip
 
-# Delani Studio
+
 
 ## Authors
 - [WinnieAnyoso](https://github.com/WinnieAnyoso)
